@@ -1,0 +1,133 @@
+{
+  "A": [
+    "AAPL",
+    "ABT",
+    "ADBE",
+    "AEP",
+    "AMGN",
+    "AMT",
+    "AMZN",
+    "ATVI",
+    "AVB",
+    "AXP"
+  ],
+  "M": [
+    "MCD",
+    "META",
+    "MMM",
+    "MPC",
+    "MRK",
+    "MS",
+    "MSFT"
+  ],
+  "G": [
+    "GE",
+    "GILD",
+    "GOOG",
+    "GOOGL",
+    "GS"
+  ],
+  "N": [
+    "NEE",
+    "NFLX",
+    "NKE",
+    "NVDA"
+  ],
+  "T": [
+    "T",
+    "TGT",
+    "TMO",
+    "TMUS",
+    "TSLA",
+    "TTWO"
+  ],
+  "J": [
+    "JNJ",
+    "JPM"
+  ],
+  "B": [
+    "BA",
+    "BAC",
+    "BLK",
+    "BMY"
+  ],
+  "W": [
+    "WEC",
+    "WELL",
+    "WFC",
+    "WMB",
+    "WMT"
+  ],
+  "C": [
+    "C",
+    "CAT",
+    "CCI",
+    "CHTR",
+    "CMCSA",
+    "COP",
+    "COST",
+    "CVX"
+  ],
+  "S": [
+    "SBUX",
+    "SCHW",
+    "SLB",
+    "SO",
+    "SPG",
+    "SRE"
+  ],
+  "V": [
+    "V",
+    "VLO",
+    "VZ"
+  ],
+  "U": [
+    "UNH",
+    "UNP",
+    "UPS"
+  ],
+  "P": [
+    "PEP",
+    "PFE",
+    "PG",
+    "PLD",
+    "PSA",
+    "PSX"
+  ],
+  "L": [
+    "LLY",
+    "LMT"
+  ],
+  "K": [
+    "KMI",
+    "KO"
+  ],
+  "H": [
+    "HD",
+    "HON"
+  ],
+  "R": [
+    "RTX"
+  ],
+  "D": [
+    "D",
+    "DE",
+    "DIS",
+    "DLR",
+    "DUK"
+  ],
+  "X": [
+    "XEL",
+    "XOM"
+  ],
+  "E": [
+    "EA",
+    "ED",
+    "EOG",
+    "EQIX",
+    "EXC"
+  ],
+  "O": [
+    "O"
+  ]
+}
