@@ -16,15 +16,6 @@ logs/
 *.zip
 *.h5
 
-# Results and outputs
-results/
-videos/
-plots/
-*.png
-*.jpg
-*.gif
-*.mp4
-
 # IDE
 .vscode/
 .idea/
